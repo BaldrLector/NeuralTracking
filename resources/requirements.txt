@@ -1,2 +1,13 @@
 freetype-py
 open3d
+opencv-python
+opencv-contrib-python
+pillow
+pyyaml
+scikit-image
+matplotlib
+imageio
+plotly
+flake8
+flake8-bugbear
+flake8-comprehensions

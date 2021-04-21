@@ -26,10 +26,10 @@ max_boundary_dist = 0.10
 #####################################################################################################################
 # SOLVER OPTIONS
 #####################################################################################################################
-gn_depth_sampling_mode = "bilinear" # "bilinear" or "nearest"
+gn_depth_sampling_mode = "nearest" # "bilinear" or "nearest"
 gn_max_depth = 6.0
 gn_min_nodes = 4
-gn_max_nodes = 300
+gn_max_nodes = 5000
 gn_max_matches_train = 10000 
 gn_max_matches_train_per_batch = 100000 
 gn_max_matches_eval = 10000 
